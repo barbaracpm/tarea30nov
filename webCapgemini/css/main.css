@@ -1,0 +1,44 @@
+.hero {
+
+    background: url("https://f.vividscreen.info/soft/d231c0d846c26070a8ae2d1255c19036/Cool-Abstract-Background-1920x1080.jpg") no-repeat center;
+    width: 95vw;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+
+.hero-container {
+    display: flex;
+    justify-content: center;
+   
+
+
+}
+
+.hero-text {
+   
+    background-color: white;
+    display: flex;
+    left: 50%;
+    top: 50%;
+    width: 300px;
+
+   
+}
+
+.news-container {
+    /*width: 95vw;*/
+    background-color: #b6b6b6;
+    margin-top: 50px;
+
+
+}
+
+.first-card {
+    width: 85vw;
+    margin-top: 30px;
+}
